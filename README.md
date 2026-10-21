@@ -4,7 +4,7 @@
 💻 Interested in Web Development and Software Engineering  
 🚀 Building projects to improve my frontend and backend skills
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 **Languages**
 
@@ -14,17 +14,13 @@
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,react)
 
-**Backend**
+**Backend & Database**
 
-![Backend](https://skillicons.dev/icons?i=dotnet)
+![Backend & Database](https://skillicons.dev/icons?i=dotnet,postgres)
 
-**Database**
+**Development Tools**
 
-![Database](https://skillicons.dev/icons?i=postgres)
-
-**Tools**
-
-![Tools](https://skillicons.dev/icons?i=webstorm,rider,clion,intellij,github)
+![Development Tools](https://skillicons.dev/icons?i=webstorm,rider,clion,idea,github)
 
 ## 🎯 Goals
 
