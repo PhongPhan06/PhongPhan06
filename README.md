@@ -24,7 +24,7 @@
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=webstorm,rider,clion,github)
+![Tools](https://skillicons.dev/icons?i=webstorm,rider,clion,intellij,github)
 
 ## 🎯 Goals
 
