@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Phan The Phong 👋
 
-<!--
-**PhongPhan06/PhongPhan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Software Engineering student at UIT  
+💻 Interested in Web Development and Software Engineering  
+🚀 Building projects to improve my frontend and backend skills
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=cpp,java,js,ts,cs)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,react)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=dotnet)
+
+**Database**
+
+![Database](https://skillicons.dev/icons?i=postgres)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=webstorm,rider,clion,github)
+
+## 📌 Featured Projects
+
+- **HuyetMach175** — A blood donation and blood management system.
+- **DSA Practice** — Practicing data structures and algorithms.
+- **Web Development Projects** — Personal projects built while learning web development.
+
+## 🎯 Goals
+
+- Strengthen my programming fundamentals and problem-solving skills.
+- Build and integrate frontend and backend applications.
+- Improve my database design and software architecture knowledge.
+- Prepare for a Software Engineering internship.
+
+## 📫 Connect with me
+
+- GitHub: [@PhongPhan06](https://github.com/PhongPhan06)
