@@ -26,12 +26,6 @@
 
 ![Tools](https://skillicons.dev/icons?i=webstorm,rider,clion,github)
 
-## 📌 Featured Projects
-
-- **HuyetMach175** — A blood donation and blood management system.
-- **DSA Practice** — Practicing data structures and algorithms.
-- **Web Development Projects** — Personal projects built while learning web development.
-
 ## 🎯 Goals
 
 - Strengthen my programming fundamentals and problem-solving skills.
